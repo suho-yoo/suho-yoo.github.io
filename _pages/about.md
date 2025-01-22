@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🙃 About Me
 My research interest includes Large Language Models, Multi-modal AI, Efficient AI.
 
 # 🔥 News
@@ -25,11 +25,10 @@ My research interest includes Large Language Models, Multi-modal AI, Efficient A
 # 📝 Publications 
 
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
-  Hyunjong Ok*, **Suho Yoo***, Jaeho Lee (*: equal contribution)
-  *****  
+  Hyunjong Ok*, **Suho Yoo***, Jaeho Lee (*: equal contribution)  
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
 
-# 🎖 Honors and Awards
+# 🎖 Awards and Scholarships
 - *2024.11*, Outstanding Paper Award, Korean Artificial Intelligence Association (KAIA)
 - *2024.08*, 3rd Prize, International Collegiate Challenge for AI-Assisted Society (ICCAS)
 - *2024.03*, Academic Excellence Award and Scholarship, Inha University
