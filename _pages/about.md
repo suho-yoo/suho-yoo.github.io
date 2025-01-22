@@ -28,18 +28,23 @@ My research interest includes Large Language Models, Multi-modal AI, Efficient A
   Hyunjong Ok*, **Suho Yoo***, Jaeho Lee (*: equal contribution)  
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
 
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.11*, Outstanding Paper Award, Korean Artificial Intelligence Association (KAIA)
+- *2024.08*, 3rd Prize, International Collegiate Challenge for AI-Assisted Society (ICCAS)
+- *2024.03*, Academic Excellence Award and Scholarship, Inha University
+- *2023.09*, Academic Excellence Award and Scholarship, Inha University
+- *2023.09*, Scholarship, KT Hope Sharing Foundation
+- 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.03 - 2025.02*, B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University
+  Early Graduation in 6 Semesters
+  
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
+
