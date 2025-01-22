@@ -34,7 +34,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf)
 - *2024.03*, Academic Excellence Award and Scholarship, Inha University
 - *2023.09*, Academic Excellence Award and Scholarship, Inha University
 - *2023.09*, Scholarship, KT Hope Sharing Foundation
-- 
+  
 # 📖 Educations
 - *2022.03 - 2025.02*, B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University  
   Early Graduation in 6 Semesters
