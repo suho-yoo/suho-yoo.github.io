@@ -28,16 +28,16 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf)
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee (*: equal contribution)  
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
 
+# 📖 Educations
+- *2022.03 - 2025.02*, B.S. in Computer Science and Engineering; Statistics (Double Major). Inha University  
+  Early Graduation in 6 Semesters
+
 # 🎖 Awards and Scholarships
 - *2024.11*, Outstanding Paper Award, Korean Artificial Intelligence Association (KAIA)
 - *2024.08*, 3rd Prize, International Collegiate Challenge for AI-Assisted Society (ICCAS)
 - *2024.03*, Academic Excellence Award and Scholarship, Inha University
 - *2023.09*, Academic Excellence Award and Scholarship, Inha University
 - *2023.09*, Scholarship, KT Hope Sharing Foundation
-  
-# 📖 Educations
-- *2022.03 - 2025.02*, B.S. in Computer Science and Engineering; Statistics (Double Major). Inha University  
-  Early Graduation in 6 Semesters
   
 <!--
 # 💬 Invited Talks
