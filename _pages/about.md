@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🙃 About Me
 My research interest includes Large Language Models, Multi-modal AI, Efficient AI.
+Here is my [CV](/assets/CV_SuhoYoo.pdf)
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2025.
