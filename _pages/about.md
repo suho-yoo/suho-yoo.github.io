@@ -27,11 +27,9 @@ My research interest includes Large Language Models, Multi-modal AI, Efficient A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/audiobert.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AudioBERT: Audio Knowledge Augmented
-Language Model
-](https://arxiv.org/pdf/2409.08199)
+[AudioBERT: Audio Knowledge Augmented Language Model](https://arxiv.org/pdf/2409.08199)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hyunjong Ok, **Suho Yoo**, Jaeho Lee
 
 </div>
 </div>
