@@ -21,7 +21,7 @@ My research interest includes Large Language Models, Multi-modal AI, Efficient A
 Here is my [CV](/assets/CV_SuhoYoo.pdf)
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2025.
+- *2024.12* &nbsp;🎉🎉 One paper accepted to ICASSP 2025!
 
 # 📝 Publications 
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
@@ -29,15 +29,15 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf)
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
 
 # 📖 Educations
-- *2022.03 - 2025.02*, B.S. in Computer Science and Engineering; Statistics (Double Major). Inha University  
+- *2022.03 - 2025.02* B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University  
   Early Graduation in 6 Semesters
 
 # 🎖 Awards and Scholarships
-- *2024.11*, Outstanding Paper Award, Korean Artificial Intelligence Association (KAIA)
-- *2024.08*, 3rd Prize, International Collegiate Challenge for AI-Assisted Society (ICCAS)
-- *2024.03*, Academic Excellence Award and Scholarship, Inha University
-- *2023.09*, Academic Excellence Award and Scholarship, Inha University
-- *2023.09*, Scholarship, KT Hope Sharing Foundation
+- *2024.11* Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
+- *2024.08* 3rd Prize. International Collegiate Challenge for AI-Assisted Society (ICCAS)
+- *2024.03* Academic Excellence Award and Scholarship. Inha University
+- *2023.09* Academic Excellence Award and Scholarship. Inha University
+- *2023.09* Scholarship. KT Hope Sharing Foundation
   
 <!--
 # 💬 Invited Talks
@@ -45,9 +45,9 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf)
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 # 💻 Experiences
-- *2024.06 - Present*, Research Intern, Efficient Learning Lab @ POSTECH
-- *2024.07 - 2024.08*, International Collegiate Challenge for AI-Assisted Society, University of Warwick, UK
-- *2024.07 - 2024.08*, LG Aimers, LG AI Research
-- *2023.09 - 2023.11*, Google for Developers Machine Learning Bootcamp, Google Korea
+- *2024.06 - Present* Research Intern. Efficient Learning Lab @ POSTECH
+- *2024.07 - 2024.08* International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
+- *2024.07 - 2024.08* LG Aimers. LG AI Research
+- *2023.09 - 2023.11* Google for Developers Machine Learning Bootcamp. Google Korea
 
 
