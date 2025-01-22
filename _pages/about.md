@@ -27,10 +27,6 @@ My research interest includes Large Language Models, Multi-modal AI, Efficient A
   [paper](https://arxiv.org/pdf/2409.08199) \\
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee 
 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
