@@ -23,15 +23,9 @@ My research interest includes Large Language Models, Multi-modal AI, Efficient A
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2025.
 
 # 📝 Publications 
-
-<!--
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
-  Hyunjong Ok*, **Suho Yoo***, Jaeho Lee (*: equal contribution)  
+  Hyunjong Ok*, Suho Yoo*, Jaeho Lee (*: equal contribution)  
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
--->
-- **AudioBERT: Audio Knowledge Augmented Language Model**  
-  Hyunjong Ok*, **Suho Yoo***, Jaeho Lee (*: equal contribution)  
-  **ICASSP** 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
 
 # 🎖 Awards and Scholarships
 - *2024.11*, Outstanding Paper Award, Korean Artificial Intelligence Association (KAIA)
