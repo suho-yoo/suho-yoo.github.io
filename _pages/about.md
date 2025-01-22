@@ -43,8 +43,11 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf)
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
+# 💻 Experiences
+- *2024.06 - present*, Research Intern, Efficient Learning Lab @ POSTECH
+- *2024.07 - 2023.08*, International Collegiate Challenge for AI-Assisted Society, University of Warwick, UK
+- *2024.07 - 2023.08*, LG Aimers, LG AI Research
+- *2023.09 - 2023.11*, Google for Developers Machine Learning Bootcamp, Google Korea
+
 
