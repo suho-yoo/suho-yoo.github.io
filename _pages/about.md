@@ -36,7 +36,7 @@ My research interest includes Large Language Models, Multi-modal AI, Efficient A
 - *2023.09*, Scholarship, KT Hope Sharing Foundation
 - 
 # 📖 Educations
-- *2022.03 - 2025.02*, B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University
+- *2022.03 - 2025.02*, B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University  
   Early Graduation in 6 Semesters
   
 <!--
