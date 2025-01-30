@@ -49,5 +49,6 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
 - *2024.07 - 2024.08*: LG Aimers. LG AI Research
 - *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea
+- *2020.08 - 2022.02*: Republic of Korea Army (ROKA). Mandatory military service
 
 
