@@ -27,10 +27,10 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - <span style="font-size: larger;">A paper about audio imagination for language models</span>    
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
   Under Review
-- <span style="font-size: larger;">**A paper about turn detection for chatbots**</span>  
+- <span style="font-size: larger;">A paper about turn detection for chatbots</span>  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   Under Review
-- <span style="font-size: larger;">**AudioBERT: Audio Knowledge Augmented Language Model**</span>  
+- <span style="font-size: larger;">AudioBERT: Audio Knowledge Augmented Language Model</span>  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee (*: equal contribution)  
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
 
