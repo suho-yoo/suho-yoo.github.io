@@ -24,11 +24,11 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2025!
 
 # 📝 Publications 
-- **A paper about audio imagination for Language Models**
-  **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)
+- **A paper about audio imagination for Language Models**  
+  **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
   Under Review 2025
-- **A paper about turn detection for chatbots**
-  Hyunjong Ok, **Suho Yoo**, Jaeho Lee
+- **A paper about turn detection for chatbots**  
+  Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   Under Review 2025
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee (*: equal contribution)  
