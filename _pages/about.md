@@ -25,11 +25,11 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2024.12*: One paper has been accepted at ICASSP 2025!
 -->
 
-# 📖 Educations
+# 📖 Education
 - *2022.03 - 2025.02*: B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University  
   Early Graduation in 6 Semesters
   
-# 📝 Publications 
+# 📝 Publication 
 - **A paper about audio imagination for language models**  
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
   Under Review
@@ -37,7 +37,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee (*: equal contribution)  
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
 
-# 🎖 Awards and Scholarships
+# 🎖 Awards and Scholarship
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
 - *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society (ICCAS)
 - *2024.03*: Academic Excellence Award and Scholarship. Inha University
@@ -49,7 +49,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-# 💻 Experiences
+# 💻 Experience
 - *2024.06 - Present*: Research Intern. Efficient Learning Lab @ POSTECH
 - *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
 - *2024.07 - 2024.08*: LG Aimers. LG AI Research
