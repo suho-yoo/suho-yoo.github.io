@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙃 About Me
-My research interest includes Large Language Models, Multi-modal AI, and Efficient AI.  
+My research interests lie in Large Language Models, Multi-modal AI, and Efficient AI.  
 Here is my [CV](/assets/CV_SuhoYoo.pdf).
 
 <!--
