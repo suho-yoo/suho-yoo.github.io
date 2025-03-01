@@ -21,7 +21,7 @@ My research interest includes Large Language Models, Multi-modal AI, Efficient A
 Here is my [CV](/assets/CV_SuhoYoo.pdf).
 
 # 🔥 News
-- *2024.12*: One paper accepted to ICASSP 2025!
+- *2024.12*: One paper has been accepted to ICASSP 2025!
 
 # 📝 Publications 
 - **A paper about audio imagination for language models**  
