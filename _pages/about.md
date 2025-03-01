@@ -30,7 +30,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   Early Graduation in 6 Semesters
   
 # 📝 Publication 
-- **A paper about audio imagination for language models**  
+- **Audio Imagination for Language Models**  
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
   Under Review
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
