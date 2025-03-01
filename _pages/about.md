@@ -20,9 +20,15 @@ redirect_from:
 My research interest includes Large Language Models, Multi-modal AI, and Efficient AI.  
 Here is my [CV](/assets/CV_SuhoYoo.pdf).
 
+<!--
 # 🔥 News
 - *2024.12*: One paper has been accepted at ICASSP 2025!
+-->
 
+# 📖 Educations
+- *2022.03 - 2025.02*: B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University  
+  Early Graduation in 6 Semesters
+  
 # 📝 Publications 
 - **A paper about audio imagination for language models**  
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
@@ -30,10 +36,6 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee (*: equal contribution)  
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
-
-# 📖 Educations
-- *2022.03 - 2025.02*: B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University  
-  Early Graduation in 6 Semesters
 
 # 🎖 Awards and Scholarships
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
