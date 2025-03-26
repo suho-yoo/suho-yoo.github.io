@@ -30,8 +30,8 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   Early Graduation in 6 Semesters
   
 # 📝 Publication 
-- **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**
-  Hyunjong Ok\*, **Suho Yoo**, Jaeho Lee
+- **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
+  Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   Under Review
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**  
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
