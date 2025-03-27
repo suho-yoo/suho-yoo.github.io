@@ -34,7 +34,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**  
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
-  <span style="color: purple;">ArXiv</span> 2025 [[paper]](https://arxiv.org/pdf/2503.16853)
+  <span style="color: purple;">arXiv</span> 2025 [[paper]](https://arxiv.org/pdf/2503.16853)
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee (*: equal contribution)  
   <span style="color: purple;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)
