@@ -33,6 +33,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**  
+  <span style="color: navy;">arXiv</span> 2025 [[paper]](https://arxiv.org/pdf/2503.23439)
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
   <span style="color: navy;">arXiv</span> 2025 [[paper]](https://arxiv.org/pdf/2503.16853)
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
