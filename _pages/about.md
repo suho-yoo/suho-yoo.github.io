@@ -31,7 +31,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   
 # 📝 Publication 
 - **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
-  Hyunjong Ok, **Suho Yoo**, Jaeho Lee
+  Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   <span style="color: navy;">arXiv</span> 2025 [[paper]](https://arxiv.org/pdf/2503.23439)  
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
