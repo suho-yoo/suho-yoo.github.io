@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Suho Yoo"
-description              : "CS Student "
+description              : "M.S. Student @ KAIST EE"
 repository               : "uso7d0/uso7d0.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Suho Yoo"
   avatar           : "images/SuhoYoo.jpg"
   bio              : 
-  location         : "Seoul, Korea"
+  location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oZHlU9EAAAAJ&hl"
-  email            : "uso7d0@gmail.com"
+  email            : "suho.yoo@kaist.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
