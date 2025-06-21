@@ -26,7 +26,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 -->
 
 # 📖 Education
-- *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institue of Science and Technology (KAIST)  
+- *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institute of Science and Technology (KAIST)  
 - *2022.03 - 2025.02*: B.S. in Computer Science and Engineering, Statistics (Double Major). Inha University  
   Early Graduation in 6 Semesters
   
