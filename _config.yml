@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Suho Yoo"
 description              : "M.S. Student @ KAIST EE"
-repository               : "uso7d0/uso7d0.github.io"
+repository               : "suho-yoo/suho-yoo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "uso7d0"
+  github           : "suho-yoo"
   google_plus      :
   keybase          :
   instagram        :
