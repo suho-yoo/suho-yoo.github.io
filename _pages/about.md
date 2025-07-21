@@ -42,7 +42,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee (*: equal contribution)  
   <span style="color: navy;">ICASSP</span> 2025 [[paper]](https://arxiv.org/pdf/2409.08199)  
 
-# 🎖 Awards and Scholarship
+# 🎖 Award and Scholarship
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
 - *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society (ICCAS)
 - *2024.03*: Academic Excellence Award and Scholarship. Inha University
