@@ -32,17 +32,18 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   Early Graduation in 6 Semesters
   
 # 📝 Publication 
+*: equal contribution  
 - **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
-  Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee (*: equal contribution)  
+  Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee  
   <span style="color: navy;">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2509.17641)  
 - **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   <span style="color: navy;">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2503.23439)  
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
-  **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee (*: equal contribution)  
+  **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee  
   <span style="color: navy;">ACL Findings</span> 2025 [[paper]](https://arxiv.org/abs/2503.16853)  
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
-  Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee (*: equal contribution)  
+  Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee  
   <span style="color: navy;">ICASSP</span> 2025 [[paper]](https://arxiv.org/abs/2409.08199)  
 
 # 🎖 Award and Scholarship
