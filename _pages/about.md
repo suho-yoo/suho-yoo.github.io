@@ -41,10 +41,10 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   <span style="color: navy;">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2503.23439)  
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee  
-  <span style="color: navy;">ACL Findings</span> 2025 [[paper]](https://arxiv.org/abs/2503.16853)  
+  <span style="color: navy;">ACL Findings</span> 2025 [[paper]](https://aclanthology.org/2025.findings-acl.730)  
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee  
-  <span style="color: navy;">ICASSP</span> 2025 [[paper]](https://arxiv.org/abs/2409.08199)  
+  <span style="color: navy;">ICASSP</span> 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10888629)  
 
 # 🎖 Award and Scholarship
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
