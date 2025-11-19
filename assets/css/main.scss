@@ -107,8 +107,9 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
 .pub-venue {
-  color: navy;
+  color: navy !important;
 }
 
 /* =====================
@@ -137,7 +138,7 @@ body.dark #theme-toggle {
 }
 
 body.dark .pub-venue {
-  color: #a8d8ff;   /* 밝은 하늘색 */
+  color: #a8d8ff !important;   /* 밝은 하늘색 */
 }
 
 /* ------------------------
