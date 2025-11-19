@@ -20,10 +20,6 @@ redirect_from:
 My research interests lie in Large Language Models, Multimodal Learning, and Speech Processing.  
 Here is my [CV](/assets/CV_SuhoYoo.pdf).
 
-<!--
-# 🔥 News
-- *2024.12*: One paper has been accepted at ICASSP 2025!
--->
 
 # 📖 Education
 - *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institute of Science and Technology (KAIST)  
@@ -53,15 +49,9 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2023.09*: Academic Excellence Award and Scholarship. Inha University
 - *2023.09*: Scholarship. KT Hope Sharing Foundation
   
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+
 # 💻 Experience
 - *2024.06 - 2025.05*: Research Intern. Efficient Learning Lab @ POSTECH
 - *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
-- *2024.07 - 2024.08*: LG Aimers. LG AI Research
-- *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea
 
 
