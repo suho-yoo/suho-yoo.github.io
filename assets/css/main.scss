@@ -223,4 +223,28 @@ body.dark {
     color: #ffffff !important;
     border-bottom: 2px solid #c1e0ff !important;
   }
+
+      /* 다크모드에서 링크 색상 전체 개선 */
+  body.dark a {
+    color: #9fd4ff !important;   /* 밝은 하늘색 */
+  }
+
+  body.dark a:hover,
+  body.dark a:focus {
+    color: #c9e8ff !important;   /* 더 밝은 hover */
+  }
+
+  /* arXiv, ACL 등 파란 텍스트에도 일괄 적용 */
+  body.dark .archive__item-title a,
+  body.dark .page__content a,
+  body.dark .post__content a,
+  body.dark .nav__item a {
+    color: #9fd4ff !important;
+  }
+
+  body.dark .archive__item-title a:hover,
+  body.dark .page__content a:hover,
+  body.dark .post__content a:hover {
+    color: #c9e8ff !important;
+  }
 }
