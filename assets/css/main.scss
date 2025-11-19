@@ -174,4 +174,32 @@ h1:before, .anchor:before {
   tbody tr:nth-child(odd) {
     background-color: #151515;
   }
+      /* 네비게이션 바 (메뉴바) */
+  .masthead,
+  .masthead .site-nav,
+  .masthead .greedy-nav,
+  .masthead .greedy-nav .nav__list,
+  .masthead .wrapper {
+    background-color: #181818 !important;
+    color: #e6e6e6 !important;
+    border-color: #333 !important;
+  }
+
+  /* navbar 링크 색 */
+  .masthead a,
+  .masthead .nav__item a {
+    color: #e6e6e6 !important;
+  }
+
+  .masthead a:hover,
+  .masthead .nav__item a:hover {
+    color: #c1e0ff !important;
+  }
+
+  /* 현재 선택된 메뉴(active) 강조 */
+  .masthead .nav__item--active > a,
+  .masthead .nav__item--current > a {
+    color: #ffffff !important;
+    border-bottom: 2px solid #c1e0ff !important;
+  }
 }
