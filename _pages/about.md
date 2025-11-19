@@ -40,7 +40,11 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   <span class="pub-venue">ACL Findings</span> 2025 [[paper]](https://aclanthology.org/2025.findings-acl.730)  
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee  
-  <span class="pub-venue">ICASSP</span> 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10888629)  
+  <span class="pub-venue">ICASSP</span> 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10888629)
+
+# 💻 Experience
+- *2024.06 - 2025.05*: Research Intern. Efficient Learning Lab @ POSTECH
+- *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK  
 
 # 🎖 Award and Scholarship
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
@@ -48,10 +52,5 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2024.03*: Academic Excellence Award and Scholarship. Inha University
 - *2023.09*: Academic Excellence Award and Scholarship. Inha University
 - *2023.09*: Scholarship. KT Hope Sharing Foundation
-  
-
-# 💻 Experience
-- *2024.06 - 2025.05*: Research Intern. Efficient Learning Lab @ POSTECH
-- *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
 
 
