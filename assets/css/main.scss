@@ -109,11 +109,11 @@ h1:before, .anchor:before {
 }
 
 
-// =====================
-// Dark theme (class-based)
-// =====================
+/* =====================
+   Dark theme (class-based)
+===================== */
 
-/* 다크모드 토글 버튼 스타일 */
+/* Toggle button */
 #theme-toggle {
   position: fixed;
   right: 20px;
@@ -134,23 +134,25 @@ body.dark #theme-toggle {
   border-color: #666;
 }
 
-/* 여기서부터 실제 다크 테마 */
+/* ------------------------
+   Dark mode actual styles
+-------------------------*/
 body.dark {
-  /* 전체 배경 + 기본 글자색 */
+  /* Base colors */
   background-color: #111 !important;
   color: #e6e6e6 !important;
 
-  /* 링크 색상 */
+  /* Better link color */
   a {
-    color: #8ab4ff;
+    color: #9fd4ff !important;
   }
 
   a:hover,
   a:focus {
-    color: #c1e0ff;
+    color: #c9e8ff !important;
   }
 
-  /* 상단바, 사이드바, 푸터 등 공통 배경 */
+  /* Layout background elements */
   .masthead,
   .sidebar,
   .page__footer,
@@ -159,7 +161,7 @@ body.dark {
     color: #e6e6e6 !important;
   }
 
-  /* 본문 카드/박스 쪽 (페이지, 포스트 영역) */
+  /* Main content wrappers */
   .page,
   .post,
   .archive,
@@ -169,12 +171,12 @@ body.dark {
     border-color: #333 !important;
   }
 
-  /* paper-box도 어둡게 */
+  /* Paper-box */
   .paper-box {
     border-bottom: 1px #333 solid !important;
   }
 
-  /* 코드 블럭 */
+  /* Code blocks */
   pre,
   code,
   .highlight {
@@ -182,7 +184,7 @@ body.dark {
     color: #f1f1f1 !important;
   }
 
-  /* 표 */
+  /* Tables */
   table {
     background-color: #181818;
   }
@@ -195,7 +197,7 @@ body.dark {
     background-color: #151515;
   }
 
-  /* 네비게이션 바 (메뉴바) */
+  /* Navbar */
   .masthead,
   .masthead .site-nav,
   .masthead .greedy-nav,
@@ -206,7 +208,6 @@ body.dark {
     border-color: #333 !important;
   }
 
-  /* navbar 링크 색 */
   .masthead a,
   .masthead .nav__item a {
     color: #e6e6e6 !important;
@@ -214,37 +215,26 @@ body.dark {
 
   .masthead a:hover,
   .masthead .nav__item a:hover {
-    color: #c1e0ff !important;
+    color: #c9e8ff !important;
   }
 
-  /* 현재 선택된 메뉴(active) 강조 */
   .masthead .nav__item--active > a,
   .masthead .nav__item--current > a {
     color: #ffffff !important;
-    border-bottom: 2px solid #c1e0ff !important;
+    border-bottom: 2px solid #c9e8ff !important;
   }
 
-      /* 다크모드에서 링크 색상 전체 개선 */
-  body.dark a {
-    color: #9fd4ff !important;   /* 밝은 하늘색 */
-  }
-
-  body.dark a:hover,
-  body.dark a:focus {
-    color: #c9e8ff !important;   /* 더 밝은 hover */
-  }
-
-  /* arXiv, ACL 등 파란 텍스트에도 일괄 적용 */
-  body.dark .archive__item-title a,
-  body.dark .page__content a,
-  body.dark .post__content a,
-  body.dark .nav__item a {
+  /* Specific content link overrides (arXiv, ACL, etc.) */
+  .archive__item-title a,
+  .page__content a,
+  .post__content a,
+  .nav__item a {
     color: #9fd4ff !important;
   }
 
-  body.dark .archive__item-title a:hover,
-  body.dark .page__content a:hover,
-  body.dark .post__content a:hover {
+  .archive__item-title a:hover,
+  .page__content a:hover,
+  .post__content a:hover {
     color: #c9e8ff !important;
   }
 }
