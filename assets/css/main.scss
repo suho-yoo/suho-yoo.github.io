@@ -107,3 +107,70 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// =====================
+// Dark theme overrides
+// =====================
+@media (prefers-color-scheme: dark) {
+
+  /* 전체 배경 + 기본 글자색 */
+  body {
+    background-color: #111 !important;
+    color: #e6e6e6 !important;
+  }
+
+  /* 링크 색상 */
+  a {
+    color: #8ab4ff;
+  }
+
+  a:hover,
+  a:focus {
+    color: #c1e0ff;
+  }
+
+  /* 상단바, 사이드바, 푸터 등 공통 배경 */
+  .masthead,
+  .sidebar,
+  .page__footer,
+  footer.site-footer {
+    background-color: #181818 !important;
+    color: #e6e6e6 !important;
+  }
+
+  /* 본문 카드/박스 쪽 (페이지, 포스트 영역) */
+  .page,
+  .post,
+  .archive,
+  .content,
+  .wrapper {
+    background-color: #181818 !important;
+    border-color: #333 !important;
+  }
+
+  /* 네가 정의한 paper-box도 어둡게 */
+  .paper-box {
+    border-bottom: 1px #333 solid !important;
+  }
+
+  /* 코드 블럭 */
+  pre,
+  code,
+  .highlight {
+    background-color: #1e1e1e !important;
+    color: #f1f1f1 !important;
+  }
+
+  /* 표 */
+  table {
+    background-color: #181818;
+  }
+
+  thead {
+    background-color: #202020;
+  }
+
+  tbody tr:nth-child(odd) {
+    background-color: #151515;
+  }
+}
