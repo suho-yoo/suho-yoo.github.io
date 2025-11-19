@@ -107,7 +107,9 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-
+.pub-venue {
+  color: navy;
+}
 
 /* =====================
    Dark theme (class-based)
@@ -132,6 +134,10 @@ body.dark #theme-toggle {
   background: #222;
   color: #eee;
   border-color: #666;
+}
+
+body.dark .pub-venue {
+  color: #a8d8ff;   /* 밝은 하늘색 */
 }
 
 /* ------------------------
