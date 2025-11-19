@@ -109,97 +109,97 @@ h1:before, .anchor:before {
 }
 
 
-// =====================
-// Dark theme overrides
-// =====================
-@media (prefers-color-scheme: dark) {
+// // =====================
+// // Dark theme overrides
+// // =====================
+// @media (prefers-color-scheme: dark) {
 
-  /* 전체 배경 + 기본 글자색 */
-  body {
-    background-color: #111 !important;
-    color: #e6e6e6 !important;
-  }
+//   /* 전체 배경 + 기본 글자색 */
+//   body {
+//     background-color: #111 !important;
+//     color: #e6e6e6 !important;
+//   }
 
-  /* 링크 색상 */
-  a {
-    color: #8ab4ff;
-  }
+//   /* 링크 색상 */
+//   a {
+//     color: #8ab4ff;
+//   }
 
-  a:hover,
-  a:focus {
-    color: #c1e0ff;
-  }
+//   a:hover,
+//   a:focus {
+//     color: #c1e0ff;
+//   }
 
-  /* 상단바, 사이드바, 푸터 등 공통 배경 */
-  .masthead,
-  .sidebar,
-  .page__footer,
-  footer.site-footer {
-    background-color: #181818 !important;
-    color: #e6e6e6 !important;
-  }
+//   /* 상단바, 사이드바, 푸터 등 공통 배경 */
+//   .masthead,
+//   .sidebar,
+//   .page__footer,
+//   footer.site-footer {
+//     background-color: #181818 !important;
+//     color: #e6e6e6 !important;
+//   }
 
-  /* 본문 카드/박스 쪽 (페이지, 포스트 영역) */
-  .page,
-  .post,
-  .archive,
-  .content,
-  .wrapper {
-    background-color: #181818 !important;
-    border-color: #333 !important;
-  }
+//   /* 본문 카드/박스 쪽 (페이지, 포스트 영역) */
+//   .page,
+//   .post,
+//   .archive,
+//   .content,
+//   .wrapper {
+//     background-color: #181818 !important;
+//     border-color: #333 !important;
+//   }
 
-  /* 네가 정의한 paper-box도 어둡게 */
-  .paper-box {
-    border-bottom: 1px #333 solid !important;
-  }
+//   /* 네가 정의한 paper-box도 어둡게 */
+//   .paper-box {
+//     border-bottom: 1px #333 solid !important;
+//   }
 
-  /* 코드 블럭 */
-  pre,
-  code,
-  .highlight {
-    background-color: #1e1e1e !important;
-    color: #f1f1f1 !important;
-  }
+//   /* 코드 블럭 */
+//   pre,
+//   code,
+//   .highlight {
+//     background-color: #1e1e1e !important;
+//     color: #f1f1f1 !important;
+//   }
 
-  /* 표 */
-  table {
-    background-color: #181818;
-  }
+//   /* 표 */
+//   table {
+//     background-color: #181818;
+//   }
 
-  thead {
-    background-color: #202020;
-  }
+//   thead {
+//     background-color: #202020;
+//   }
 
-  tbody tr:nth-child(odd) {
-    background-color: #151515;
-  }
-      /* 네비게이션 바 (메뉴바) */
-  .masthead,
-  .masthead .site-nav,
-  .masthead .greedy-nav,
-  .masthead .greedy-nav .nav__list,
-  .masthead .wrapper {
-    background-color: #181818 !important;
-    color: #e6e6e6 !important;
-    border-color: #333 !important;
-  }
+//   tbody tr:nth-child(odd) {
+//     background-color: #151515;
+//   }
+//       /* 네비게이션 바 (메뉴바) */
+//   .masthead,
+//   .masthead .site-nav,
+//   .masthead .greedy-nav,
+//   .masthead .greedy-nav .nav__list,
+//   .masthead .wrapper {
+//     background-color: #181818 !important;
+//     color: #e6e6e6 !important;
+//     border-color: #333 !important;
+//   }
 
-  /* navbar 링크 색 */
-  .masthead a,
-  .masthead .nav__item a {
-    color: #e6e6e6 !important;
-  }
+//   /* navbar 링크 색 */
+//   .masthead a,
+//   .masthead .nav__item a {
+//     color: #e6e6e6 !important;
+//   }
 
-  .masthead a:hover,
-  .masthead .nav__item a:hover {
-    color: #c1e0ff !important;
-  }
+//   .masthead a:hover,
+//   .masthead .nav__item a:hover {
+//     color: #c1e0ff !important;
+//   }
 
-  /* 현재 선택된 메뉴(active) 강조 */
-  .masthead .nav__item--active > a,
-  .masthead .nav__item--current > a {
-    color: #ffffff !important;
-    border-bottom: 2px solid #c1e0ff !important;
-  }
-}
+//   /* 현재 선택된 메뉴(active) 강조 */
+//   .masthead .nav__item--active > a,
+//   .masthead .nav__item--current > a {
+//     color: #ffffff !important;
+//     border-bottom: 2px solid #c1e0ff !important;
+//   }
+// }
