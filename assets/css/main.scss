@@ -142,14 +142,14 @@ body.dark {
   background-color: #111 !important;
   color: #e6e6e6 !important;
 
-  /* Better link color */
+  /* Global link color (더 밝고 선명하게) */
   a {
-    color: #9fd4ff !important;
+    color: #a8d8ff !important;  /* 기존보다 훨씬 밝음 */
   }
 
   a:hover,
   a:focus {
-    color: #c9e8ff !important;
+    color: #d6ecff !important;  /* hover는 거의 흰빛 */
   }
 
   /* Layout background elements */
@@ -210,31 +210,30 @@ body.dark {
 
   .masthead a,
   .masthead .nav__item a {
-    color: #e6e6e6 !important;
+    color: #e6e6e6 !important;     /* 네비는 그대로 밝은 톤 유지 */
   }
 
   .masthead a:hover,
   .masthead .nav__item a:hover {
-    color: #c9e8ff !important;
+    color: #d6ecff !important;
   }
 
   .masthead .nav__item--active > a,
   .masthead .nav__item--current > a {
     color: #ffffff !important;
-    border-bottom: 2px solid #c9e8ff !important;
+    border-bottom: 2px solid #d6ecff !important;
   }
 
-  /* Specific content link overrides (arXiv, ACL, etc.) */
+  /* Publication list (arXiv, ACL, ICASSP 등) */
   .archive__item-title a,
   .page__content a,
-  .post__content a,
-  .nav__item a {
-    color: #9fd4ff !important;
+  .post__content a {
+    color: #a8d8ff !important;
   }
 
   .archive__item-title a:hover,
   .page__content a:hover,
   .post__content a:hover {
-    color: #c9e8ff !important;
+    color: #d6ecff !important;
   }
 }
