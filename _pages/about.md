@@ -44,7 +44,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 
 # 🎖 Award and Scholarship
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
-- *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society (ICCAS)
+- *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society
 - *2024.03*: Academic Excellence Award and Scholarship. Inha University
 - *2023.09*: Academic Excellence Award and Scholarship. Inha University
 - *2023.09*: Scholarship. KT Hope Sharing Foundation
