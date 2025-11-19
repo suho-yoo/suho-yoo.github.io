@@ -31,16 +31,16 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 *: equal contribution  
 - **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
   Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee  
-  <span style="color: navy;">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2509.17641)  
+  <span class="pub-venue">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2509.17641)  
 - **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
-  <span style="color: navy;">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2503.23439)  
+  <span class="pub-venue">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2503.23439)  
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee  
-  <span style="color: navy;">ACL Findings</span> 2025 [[paper]](https://aclanthology.org/2025.findings-acl.730)  
+  <span class="pub-venue">ACL Findings</span> 2025 [[paper]](https://aclanthology.org/2025.findings-acl.730)  
 - **AudioBERT: Audio Knowledge Augmented Language Model**  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee  
-  <span style="color: navy;">ICASSP</span> 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10888629)  
+  <span class="pub-venue">ICASSP</span> 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10888629)  
 
 # 🎖 Award and Scholarship
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
