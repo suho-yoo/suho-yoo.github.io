@@ -44,7 +44,8 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 
 # 💻 Experience
 - *2024.06 - 2025.05*: Research Intern. Efficient Learning Lab @ POSTECH
-- *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK  
+- *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
+- *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea  
 
 # 🎖 Award and Scholarship
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
