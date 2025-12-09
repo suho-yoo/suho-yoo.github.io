@@ -48,6 +48,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea  
 
 # 🎖 Award and Scholarship
+- *2025.12*: National Science and Technology Scholarship (M.S. Track). KOSAF
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
 - *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society
 - *2024.03*: Academic Excellence Award and Scholarship. Inha University
