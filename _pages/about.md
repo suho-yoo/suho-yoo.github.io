@@ -53,6 +53,6 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society
 - *2024.03*: Academic Excellence Award and Scholarship. Inha University
 - *2023.09*: Academic Excellence Award and Scholarship. Inha University
-- *2023.09*: Scholarship. KT Hope Sharing Foundation
+- *2023.09*: Foundation Scholarship. KT Hope Sharing Foundation
 
 
