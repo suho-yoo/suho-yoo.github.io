@@ -22,9 +22,9 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 
 
 # 📖 Educations
-- *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institute of Science and Technology (KAIST)  
+- *2025.09 - Present*: M.S. in  Electrical Engineering. KAIST  
   Advisor: [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/)
-- *2022.03 - 2025.02*: B.S. in Computer Science & Statistics (Double Major). Inha University  
+- *2022.03 - 2025.02*: B.S. in Computer Science and Statistics (Double Major). Inha University  
   Early Graduation in 6 Semesters
   
 # 📝 Publications 
