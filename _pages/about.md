@@ -47,7 +47,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 - *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
 - *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea  
 
-# 🎖 Awards and Scholarships
+# 🎖 Awards and Honors
 - *2025.12*: National Science and Technology Scholarship (M.S. Track). KOSAF
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
 - *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society
