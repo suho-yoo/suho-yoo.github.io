@@ -21,13 +21,13 @@ My research interests lie in Large Language Models, Multimodal Learning, and Spe
 Here is my [CV](/assets/CV_SuhoYoo.pdf).
 
 
-# 📖 Education
+# 📖 Educations
 - *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institute of Science and Technology (KAIST)  
   Advisor: [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/)
 - *2022.03 - 2025.02*: B.S. in Computer Science & Statistics (Double Major). Inha University  
   Early Graduation in 6 Semesters
   
-# 📝 Publication 
+# 📝 Publications 
 *: equal contribution  
 - **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
   Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee  
@@ -42,12 +42,12 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee  
   <span class="pub-venue">ICASSP</span> 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10888629)
 
-# 💻 Experience
+# 💻 Experiences
 - *2024.06 - 2025.05*: Research Intern. Efficient Learning Lab @ POSTECH
 - *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
 - *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea  
 
-# 🎖 Award and Scholarship
+# 🎖 Awards and Scholarships
 - *2025.12*: National Science and Technology Scholarship (M.S. Track). KOSAF
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association (KAIA)
 - *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society
