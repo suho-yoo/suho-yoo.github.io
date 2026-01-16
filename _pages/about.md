@@ -31,7 +31,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
 *: equal contribution  
 - **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
   Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee  
-  <span class="pub-venue">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2509.17641)  
+  <span class="pub-venue">ICASSP</span> 2026 [[paper]](https://arxiv.org/abs/2509.17641)  
 - **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   <span class="pub-venue">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2503.23439)  
