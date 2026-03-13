@@ -29,6 +29,9 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   
 # 📝 Publications 
 *: equal contribution  
+- **On the Nature of Attention Sink that Shapes Decoding Strategy in MLLMs**  
+  **Suho Yoo**, Youngjoon Jang, Joon Son Chung  
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2503.23439)  
 - **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   <span class="pub-venue">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2503.23439)  
