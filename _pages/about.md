@@ -34,7 +34,7 @@ Here is my [CV](/assets/CV_SuhoYoo.pdf).
   <span class="pub-venue">arXiv</span> 2025 [[paper]](https://arxiv.org/abs/2503.23439)  
 - **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
   Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee  
-  <span class="pub-venue">ICASSP</span> 2026 <span style="color:red;">Oral</span> [[paper]](https://arxiv.org/abs/2509.17641)  
+  <span class="pub-venue">ICASSP</span> 2026 [[paper]](https://arxiv.org/abs/2509.17641) <span style="color:red;">Oral</span>  
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee  
   <span class="pub-venue">ACL Findings</span> 2025 [[paper]](https://aclanthology.org/2025.findings-acl.730)  
