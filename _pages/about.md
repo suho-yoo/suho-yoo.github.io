@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🙃 About Me
 I am a M.S. student in Electrical Engineering at KAIST, advised by [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/). My research focuses on large language models, multimodal learning, and speech processing. Here is my [CV](/assets/CV_SuhoYoo.pdf).  
-I am particularly interested in understanding how Omni-LLMs process and integrate audio-visual information, and in developing models that enable natural speech interaction. My broader goal is to build multimodal language models with seamless and human-like perceptual and conversational abilities.  
+My current interests lie in understanding how Omni-LLMs process and integrate audio-visual information, and in developing models that enable natural speech interaction. My broader goal is to build multimodal language models with seamless and human-like perceptual and conversational abilities.  
 
 
 # 📖 Educations
