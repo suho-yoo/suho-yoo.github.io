@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙃 About Me
-Hi! I’m Suho Yoo, an M.S. student in Electrical Engineering at KAIST, advised by [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/).  
+Hi! I’m Suho, an M.S. student in Electrical Engineering at KAIST, advised by [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/).  
 
 I’m interested in large language models, multimodal learning, and speech processing. Recently, I’ve been exploring how Omni-LLMs understand and integrate audio-visual information, as well as how to build models that enable more natural spoken interaction. More broadly, I hope to develop multimodal AI systems with seamless and human-like perceptual and conversational abilities.  
 You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).  
