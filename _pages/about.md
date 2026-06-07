@@ -22,13 +22,13 @@ Hi! I’m Suho, an M.S. student in Electrical Engineering at KAIST, advised by [
 My interests lie in large language models, multimodal learning, and speech processing. Recently, I’ve been exploring how Omni-LLMs understand and integrate audio-visual information, as well as how to build models that enable more natural spoken interaction.  
 You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).  
 
-# 📖 Educations
+# 📖 Education
 - *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institute of Science and Technology (KAIST)  
   Advisor: [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/)
 - *2022.03 - 2025.02*: B.S. in Computer Science; Statistics (Double Major). Inha University  
   Graduated in 6 Semesters
   
-# 📝 Publications 
+# 📝 Publications
 *: equal contribution  
 - **On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs**  
   **Suho Yoo\***, Youngjoon Jang\*, Joon Son Chung  
