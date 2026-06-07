@@ -46,7 +46,7 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee  
   <span class="pub-venue">ICASSP</span> 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10888629)
 
-# 💻 Experiences
+# 💻 Experience
 - *2024.06 - 2025.05*: Research Intern. Efficient Learning Lab @ POSTECH
 - *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
 - *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea  
