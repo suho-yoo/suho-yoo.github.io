@@ -35,7 +35,7 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2603.14337)
 - **Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs**  
   Hyebin Cho, **Suho Yoo**, Jaehyuk Jang, Changick Kim, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2603.14337)  
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2606.18924)  
 - **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   <span class="pub-venue">ACL</span> 2026 [[paper]](https://arxiv.org/abs/2503.23439)  
