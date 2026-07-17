@@ -28,7 +28,12 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 - *2022.03 - 2025.02*: B.S. in Computer Science; Statistics (Double Major). Inha University  
   Graduated in 6 Semesters
   
-# 📝 Publications <span style="float:right; font-size:0.6em; font-weight:normal;">*: equal contribution</span>
+<h1>
+📝 Publications
+<span style="float:right; font-size:0.55em; font-weight:normal;">
+*: equal contribution
+</span>
+</h1>
 - **A Few Words Are Worth Video Tokens: Token Compression for Omni-LLMs**  
   **Suho Yoo**, Youngjoon Jang, Hyebin Cho, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2603.14337)  
