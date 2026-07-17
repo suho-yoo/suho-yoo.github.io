@@ -64,5 +64,5 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 - *2023.09*: Academic Excellence Award and Scholarship. Inha University
 - *2023.09*: Foundation Scholarship. KT Hope Sharing Foundation
 
-# 📝 Academic Service
+# 📋 Academic Service
 - Conference Reviewer: NeurIPS 2026
