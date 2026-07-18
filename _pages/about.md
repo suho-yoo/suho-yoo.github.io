@@ -31,7 +31,6 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 # 📝 Publications
 - **A Few Words Are Worth Video Tokens: Token Compression for Omni-LLMs**  
   **Suho Yoo**, Youngjoon Jang, Hyebin Cho, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026  
 - **Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs**  
   Hyebin Cho, **Suho Yoo**, Jaehyuk Jang, Changick Kim, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2606.18924)  
