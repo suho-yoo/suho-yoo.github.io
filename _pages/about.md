@@ -32,12 +32,12 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 - **Out of Sight, Still in Mind: Token Compression for Omni-LLMs**  
   **Suho Yoo**, Youngjoon Jang, Hyebin Cho, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2607.21179)  
-- **Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs**  
-  Hyebin Cho, **Suho Yoo**, Jaehyuk Jang, Changick Kim, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2606.18924)  
 - **On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs**  
   **Suho Yoo\***, Youngjoon Jang\*, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2603.14337)
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2603.14337)  
+- **Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs**  
+  Hyebin Cho, **Suho Yoo**, Jaehyuk Jang, Changick Kim, Joon Son Chung  
+  <span class="pub-venue">EMNLP</span> 2026 [[paper]](https://arxiv.org/abs/2606.18924)  
 - **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   <span class="pub-venue">ACL</span> 2026 [[paper]](https://arxiv.org/abs/2503.23439)  
