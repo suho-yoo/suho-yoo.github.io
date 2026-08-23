@@ -52,6 +52,7 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   <span class="pub-venue">ICASSP</span> 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10888629)
 
 # 💻 Experience
+- *2025.08*: Research Intern. Multimodal AI Lab @ KAIST
 - *2024.06 - 2025.05*: Research Intern. Efficient Learning Lab @ POSTECH
 - *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea  
 
