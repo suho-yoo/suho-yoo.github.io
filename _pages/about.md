@@ -53,16 +53,11 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 
 # 💻 Experience
 - *2024.06 - 2025.05*: Research Intern. Efficient Learning Lab @ POSTECH
-- *2024.07 - 2024.08*: International Collegiate Challenge for AI-Assisted Society. University of Warwick, UK
 - *2023.09 - 2023.11*: Google for Developers Machine Learning Bootcamp. Google Korea  
 
 # 🎖 Honors and Awards
 - *2025.12*: National Science and Technology Scholarship (M.S. Track). KOSAF
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association
-- *2024.08*: 3rd Prize. International Collegiate Challenge for AI-Assisted Society
-- *2024.03*: Academic Excellence Award and Scholarship. Inha University
-- *2023.09*: Academic Excellence Award and Scholarship. Inha University
-- *2023.09*: Foundation Scholarship. KT Hope Sharing Foundation
 
 # 📋 Academic Service
 - Conference Reviewer: NeurIPS 2026
