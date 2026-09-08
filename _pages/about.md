@@ -29,6 +29,9 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   Graduated in 6 Semesters
   
 # 📝 Publications
+- **Tracing Audio Grounding and Answer Selection in Audio LLMs**  
+  Hyebin Cho, **Suho Yoo**, Jihoo Jung, Joon Son Chung  
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.04637)  
 - **Out of Sight, Still in Mind: Token Compression for Omni-LLMs**  
   **Suho Yoo**, Youngjoon Jang, Hyebin Cho, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2607.21179)  
