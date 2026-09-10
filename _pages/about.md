@@ -29,6 +29,9 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   Graduated in 6 Semesters
   
 # 📝 Publications
+- **OMNIKVQUANT: KV CACHE QUANTIZATION FOR OMNI-LLMS**     
+  **Suho Yoo\***, Hyunjong Ok\*, Jongmin Choi, Jihoo Jung, Joon Son Chung  
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.80000)  
 - **Tracing Audio Grounding and Answer Selection in Audio LLMs**  
   Hyebin Cho, **Suho Yoo**, Jihoo Jung, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.04637)  
@@ -64,4 +67,4 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 - *2024.11*: Outstanding Paper Award. Korean Artificial Intelligence Association
 
 # 📋 Academic Service
-- Conference Reviewer: NeurIPS 2026
+- Conference Reviewer: NeurIPS 2026, ACL ARR 2026
