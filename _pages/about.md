@@ -29,7 +29,7 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   Graduated in 6 Semesters
   
 # 📝 Publications
-- **OMNIKVQUANT: KV CACHE QUANTIZATION FOR OMNI-LLMS**     
+- **OmniKVQuant: KV Cache Quantization for Omni-LLMs**     
   **Suho Yoo\***, Hyunjong Ok\*, Jongmin Choi, Jihoo Jung, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.80000)  
 - **Tracing Audio Grounding and Answer Selection in Audio LLMs**  
