@@ -29,6 +29,9 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   Graduated in 6 Semesters
   
 # 📝 Publications
+- **OmniSmartHome: A Multimodal Reasoning Benchmark for Smart Home Agents**     
+  Jihoo Jung\*, **Suho Yoo\***, Jungsoo Choi, Hyebin Cho, Tae Wook Haam, Hyeonggon Ryu, Sumin Park, Joon Son Chung  
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.11582)  
 - **OmniKVQuant: KV Cache Quantization for Omni-LLMs**     
   **Suho Yoo\***, Hyunjong Ok\*, Jongmin Choi, Jihoo Jung, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.11582)  
