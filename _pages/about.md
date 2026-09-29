@@ -39,7 +39,7 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   Hyebin Cho, **Suho Yoo**, Jihoo Jung, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.04637)
 - **Uncovering Ordinal-Matching Bias in Audio-Visual LLMs**     
-  Jihoo Jung, Youngjoon Jang, Hyebin Cho, **Suho Yoo**, Joon Son Chung
+  Jihoo Jung, Youngjoon Jang, Hyebin Cho, **Suho Yoo**, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.34223)  
 - **Out of Sight, Still in Mind: Token Compression for Omni-LLMs**  
   **Suho Yoo**, Youngjoon Jang, Hyebin Cho, Joon Son Chung  
