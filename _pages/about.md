@@ -24,12 +24,6 @@ Recently, I’ve been exploring how **omni-modal large language models** work an
 I’m also interested in **multimodal agents** that can reason about their surroundings and take appropriate actions, including in **full-duplex** settings that enable natural interaction with users.  
 You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).  
 
-# 📖 Education
-- *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institute of Science and Technology (KAIST)  
-  Advisor: [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/)
-- *2022.03 - 2025.02*: B.S. in Computer Science; Statistics (Double Major). Inha University  
-  Graduated in 6 Semesters
-  
 # 📝 Publications
 
 <details class="publication-year" id="2026" open markdown="1">
@@ -78,6 +72,12 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 {: .publications }
 
 </details>
+
+# 📖 Education
+- *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institute of Science and Technology (KAIST)  
+  Advisor: [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/)
+- *2022.03 - 2025.02*: B.S. in Computer Science; Statistics (Double Major). Inha University  
+  Graduated in 6 Semesters
 
 # 💻 Experience
 - *2025.08 - 2025.08*: Research Intern. Multimodal AI Lab @ KAIST

@@ -3,14 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Education"
-    url: "/#-education"
+  - title: "Publication"
+    url: "/#-publications"
 
   # - title: "News"
   #   url: "/#-news"
 
-  - title: "Publication"
-    url: "/#-publication"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Award and Scholarship"
     url: "/#-award-and-awards"
