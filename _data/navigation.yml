@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Publication"
+  - title: "Publications"
     url: "/#-publications"
 
   # - title: "News"
@@ -12,8 +12,11 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Award and Scholarship"
-    url: "/#-award-and-awards"
-
   - title: "Experience"
     url: "/#-experience"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
