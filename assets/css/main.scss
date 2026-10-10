@@ -164,13 +164,13 @@ h1:before, .anchor:before {
 }
 
 body.dark #theme-toggle {
-  background: #222;
-  color: #eee;
-  border-color: #666;
+  background: #2b2d31;
+  color: #dadce0;
+  border-color: #45484d;
 }
 
 body.dark .pub-venue {
-  color: #a8d8ff !important;   /* 밝은 하늘색 */
+  color: #9bbce0 !important;
 }
 
 /* ------------------------
@@ -178,26 +178,44 @@ body.dark .pub-venue {
 -------------------------*/
 body.dark {
   /* Base colors */
-  background-color: #111 !important;
-  color: #e6e6e6 !important;
+  background-color: #202124 !important;
+  color: #dadce0 !important;
+
+  .page__content h1 {
+    border-color: #383b40;
+  }
 
   /* Global link color (더 밝고 선명하게) */
   a {
-    color: #a8d8ff !important;  /* 기존보다 훨씬 밝음 */
+    color: #9bbce0 !important;
   }
 
   a:hover,
   a:focus {
-    color: #d6ecff !important;  /* hover는 거의 흰빛 */
+    color: #bdd2eb !important;
   }
 
   /* Layout background elements */
   .masthead,
-  .sidebar,
   .page__footer,
   footer.site-footer {
-    background-color: #181818 !important;
-    color: #e6e6e6 !important;
+    background-color: #252629 !important;
+    color: #dadce0 !important;
+  }
+
+  .sidebar {
+    background-color: #202124 !important;
+    color: #dadce0 !important;
+  }
+
+  .author__urls a,
+  .author__urls i {
+    color: inherit !important;
+  }
+
+  .author__urls a:hover,
+  .author__urls a:focus {
+    color: #bdd2eb !important;
   }
 
   /* Main content wrappers */
@@ -206,34 +224,34 @@ body.dark {
   .archive,
   .content,
   .wrapper {
-    background-color: #181818 !important;
-    border-color: #333 !important;
+    background-color: #202124 !important;
+    border-color: #383b40 !important;
   }
 
   /* Paper-box */
   .paper-box {
-    border-bottom: 1px #333 solid !important;
+    border-bottom: 1px #383b40 solid !important;
   }
 
   /* Code blocks */
   pre,
   code,
   .highlight {
-    background-color: #1e1e1e !important;
-    color: #f1f1f1 !important;
+    background-color: #2b2d31 !important;
+    color: #dadce0 !important;
   }
 
   /* Tables */
   table {
-    background-color: #181818;
+    background-color: #202124;
   }
 
   thead {
-    background-color: #202020;
+    background-color: #2b2d31;
   }
 
   tbody tr:nth-child(odd) {
-    background-color: #151515;
+    background-color: #252629;
   }
 
   /* Navbar */
@@ -242,37 +260,37 @@ body.dark {
   .masthead .greedy-nav,
   .masthead .greedy-nav .nav__list,
   .masthead .wrapper {
-    background-color: #181818 !important;
-    color: #e6e6e6 !important;
-    border-color: #333 !important;
+    background-color: #252629 !important;
+    color: #dadce0 !important;
+    border-color: #383b40 !important;
   }
 
   .masthead a,
   .masthead .nav__item a {
-    color: #e6e6e6 !important;     /* 네비는 그대로 밝은 톤 유지 */
+    color: #dadce0 !important;
   }
 
   .masthead a:hover,
   .masthead .nav__item a:hover {
-    color: #d6ecff !important;
+    color: #bdd2eb !important;
   }
 
   .masthead .nav__item--active > a,
   .masthead .nav__item--current > a {
-    color: #ffffff !important;
-    border-bottom: 2px solid #d6ecff !important;
+    color: #e8eaed !important;
+    border-bottom: 2px solid #9bbce0 !important;
   }
 
   /* Publication list (arXiv, ACL, ICASSP 등) */
   .archive__item-title a,
   .page__content a,
   .post__content a {
-    color: #a8d8ff !important;
+    color: #9bbce0 !important;
   }
 
   .archive__item-title a:hover,
   .page__content a:hover,
   .post__content a:hover {
-    color: #d6ecff !important;
+    color: #bdd2eb !important;
   }
 }
