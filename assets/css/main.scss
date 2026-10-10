@@ -112,6 +112,38 @@ h1:before, .anchor:before {
   color: navy !important;
 }
 
+.publication-year {
+  margin-bottom: 1em;
+  scroll-margin-top: 5em;
+
+  > summary {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0.35em 0;
+  }
+
+  > summary:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 4px;
+  }
+}
+
+.publications {
+  list-style: none;
+  padding-left: 2.75em;
+
+  > li {
+    position: relative;
+  }
+
+  .pub-label {
+    position: absolute;
+    left: -2.75em;
+    width: 2.25em;
+    text-align: right;
+  }
+}
+
 /* =====================
    Dark theme (class-based)
 ===================== */

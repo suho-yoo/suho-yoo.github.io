@@ -19,7 +19,9 @@ redirect_from:
 # 🙃 About Me
 Hi! I’m Suho, an M.S. student in Electrical Engineering at KAIST, advised by [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/).  
 
-My interests lie in large language models, multimodal learning, and speech processing. Recently, I’ve been exploring how Omni-LLMs understand and integrate audio-visual information, as well as how to build models that enable more natural spoken interaction.  
+My interests lie in large language models, multimodal learning, and speech processing.  
+Recently, I’ve been exploring how **omni-modal large language models** work and how to make them more efficient.  
+I’m also interested in **multimodal agents** that can reason about their surroundings and take appropriate actions, including in **full-duplex** settings that enable natural interaction with users.  
 You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).  
 
 # 📖 Education
@@ -29,39 +31,53 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
   Graduated in 6 Semesters
   
 # 📝 Publications
-- **OmniSmartHome: A Multimodal Reasoning Benchmark for Smart-Home Agents**     
+
+<details class="publication-year" id="2026" open markdown="1">
+<summary markdown="0">2026</summary>
+
+- <span class="pub-label">[P5]</span> **OmniSmartHome: A Multimodal Reasoning Benchmark for Smart-Home Agents**     
   Jihoo Jung\*, **Suho Yoo\***, Jungsoo Choi, Hyebin Cho, Tae Wook Haam, Hyeonggon Ryu, Sumin Park, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.32569)  
-- **OmniKVQuant: KV Cache Quantization for Omni-LLMs**     
+- <span class="pub-label">[P4]</span> **OmniKVQuant: KV Cache Quantization for Omni-LLMs**     
   **Suho Yoo\***, Hyunjong Ok\*, Jongmin Choi, Jihoo Jung, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.11582)  
-- **Tracing Audio Grounding and Answer Selection in Audio LLMs**  
+- <span class="pub-label">[P3]</span> **Tracing Audio Grounding and Answer Selection in Audio LLMs**  
   Hyebin Cho, **Suho Yoo**, Jihoo Jung, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.04637)
-- **Uncovering Ordinal-Matching Bias in Audio-Visual LLMs**     
+- <span class="pub-label">[P2]</span> **Uncovering Ordinal-Matching Bias in Audio-Visual LLMs**     
   Jihoo Jung, Youngjoon Jang, Hyebin Cho, **Suho Yoo**, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.34223)  
-- **Out of Sight, Still in Mind: Token Compression for Omni-LLMs**  
+- <span class="pub-label">[P1]</span> **Out of Sight, Still in Mind: Token Compression for Omni-LLMs**  
   **Suho Yoo**, Youngjoon Jang, Hyebin Cho, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2607.21179)  
-- **On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs**  
+- <span class="pub-label">[C6]</span> **On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs**  
   **Suho Yoo\***, Youngjoon Jang\*, Joon Son Chung  
   <span class="pub-venue">NeurIPS</span> 2026 [[paper]](https://arxiv.org/abs/2603.14337)  
-- **Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs**  
+- <span class="pub-label">[C5]</span> **Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs**  
   Hyebin Cho, **Suho Yoo**, Jaehyuk Jang, Changick Kim, Joon Son Chung  
   <span class="pub-venue">EMNLP</span> 2026 [[paper]](https://arxiv.org/abs/2606.18924)  
-- **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
+- <span class="pub-label">[C4]</span> **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
   Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
   <span class="pub-venue">ACL</span> 2026 [[paper]](https://arxiv.org/abs/2503.23439)  
-- **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
+- <span class="pub-label">[C3]</span> **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
   Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee  
   <span class="pub-venue">ICASSP</span> 2026 [[paper]](https://arxiv.org/abs/2509.17641) <span style="color:#B22222;">Oral</span>  
-- **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
+{: .publications }
+
+</details>
+
+<details class="publication-year" id="2025" markdown="1">
+<summary markdown="0">2025</summary>
+
+- <span class="pub-label">[C2]</span> **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee  
   <span class="pub-venue">ACL Findings</span> 2025 [[paper]](https://arxiv.org/abs/2503.16853)  
-- **AudioBERT: Audio Knowledge Augmented Language Model**  
+- <span class="pub-label">[C1]</span> **AudioBERT: Audio Knowledge Augmented Language Model**  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee  
   <span class="pub-venue">ICASSP</span> 2025 [[paper]](https://arxiv.org/abs/2409.08199)
+{: .publications }
+
+</details>
 
 # 💻 Experience
 - *2025.08 - 2025.08*: Research Intern. Multimodal AI Lab @ KAIST
