@@ -26,52 +26,46 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 
 # 📝 Publications
 
-<details class="publication-year" id="2026" open markdown="1">
-<summary markdown="0">2026</summary>
+### Preprints
 
-- <span class="pub-label">[P5]</span> **OmniSmartHome: A Multimodal Reasoning Benchmark for Smart-Home Agents**     
+- <span class="pub-label">1.</span> **OmniSmartHome: A Multimodal Reasoning Benchmark for Smart-Home Agents**     
   Jihoo Jung\*, **Suho Yoo\***, Jungsoo Choi, Hyebin Cho, Tae Wook Haam, Hyeonggon Ryu, Sumin Park, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.32569)  
-- <span class="pub-label">[P4]</span> **OmniKVQuant: KV Cache Quantization for Omni-LLMs**     
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.32569)
+- <span class="pub-label">2.</span> **OmniKVQuant: KV Cache Quantization for Omni-LLMs**     
   **Suho Yoo\***, Hyunjong Ok\*, Jongmin Choi, Jihoo Jung, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.11582)  
-- <span class="pub-label">[P3]</span> **Tracing Audio Grounding and Answer Selection in Audio LLMs**  
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.11582)
+- <span class="pub-label">3.</span> **Tracing Audio Grounding and Answer Selection in Audio LLMs**  
   Hyebin Cho, **Suho Yoo**, Jihoo Jung, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.04637)
-- <span class="pub-label">[P2]</span> **Uncovering Ordinal-Matching Bias in Audio-Visual LLMs**     
+- <span class="pub-label">4.</span> **Uncovering Ordinal-Matching Bias in Audio-Visual LLMs**     
   Jihoo Jung, Youngjoon Jang, Hyebin Cho, **Suho Yoo**, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.34223)  
-- <span class="pub-label">[P1]</span> **Out of Sight, Still in Mind: Token Compression for Omni-LLMs**  
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.34223)
+- <span class="pub-label">5.</span> **Out of Sight, Still in Mind: Token Compression for Omni-LLMs**  
   **Suho Yoo**, Youngjoon Jang, Hyebin Cho, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2607.21179)  
-- <span class="pub-label">[C6]</span> **On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs**  
-  **Suho Yoo\***, Youngjoon Jang\*, Joon Son Chung  
-  <span class="pub-venue">NeurIPS</span> 2026 [[paper]](https://arxiv.org/abs/2603.14337)  
-- <span class="pub-label">[C5]</span> **Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs**  
-  Hyebin Cho, **Suho Yoo**, Jaehyuk Jang, Changick Kim, Joon Son Chung  
-  <span class="pub-venue">EMNLP</span> 2026 [[paper]](https://arxiv.org/abs/2606.18924)  
-- <span class="pub-label">[C4]</span> **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
-  Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
-  <span class="pub-venue">ACL</span> 2026 [[paper]](https://arxiv.org/abs/2503.23439)  
-- <span class="pub-label">[C3]</span> **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
-  Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee  
-  <span class="pub-venue">ICASSP</span> 2026 [[paper]](https://arxiv.org/abs/2509.17641) <span style="color:#B22222;">Oral</span>  
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2607.21179)
 {: .publications }
 
-</details>
+### Conference Publications
 
-<details class="publication-year" id="2025" markdown="1">
-<summary markdown="0">2025</summary>
-
-- <span class="pub-label">[C2]</span> **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
+- <span class="pub-label">1.</span> **On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs**  
+  **Suho Yoo\***, Youngjoon Jang\*, Joon Son Chung  
+  <span class="pub-venue">NeurIPS</span> 2026 [[paper]](https://arxiv.org/abs/2603.14337)
+- <span class="pub-label">2.</span> **Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs**  
+  Hyebin Cho, **Suho Yoo**, Jaehyuk Jang, Changick Kim, Joon Son Chung  
+  <span class="pub-venue">EMNLP</span> 2026 [[paper]](https://arxiv.org/abs/2606.18924)
+- <span class="pub-label">3.</span> **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**  
+  Hyunjong Ok, **Suho Yoo**, Jaeho Lee  
+  <span class="pub-venue">ACL</span> 2026 [[paper]](https://arxiv.org/abs/2503.23439)
+- <span class="pub-label">4.</span> **AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
+  Hyunjong Ok\*, **Suho Yoo\***, Hyeonjun Kim, Jaeho Lee  
+  <span class="pub-venue">ICASSP</span> 2026 [[paper]](https://arxiv.org/abs/2509.17641) <span style="color:#B22222;">Oral</span>
+- <span class="pub-label">5.</span> **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**     
   **Suho Yoo\***, Hyunjong Ok\*, Jaeho Lee  
-  <span class="pub-venue">ACL Findings</span> 2025 [[paper]](https://arxiv.org/abs/2503.16853)  
-- <span class="pub-label">[C1]</span> **AudioBERT: Audio Knowledge Augmented Language Model**  
+  <span class="pub-venue">ACL Findings</span> 2025 [[paper]](https://arxiv.org/abs/2503.16853)
+- <span class="pub-label">6.</span> **AudioBERT: Audio Knowledge Augmented Language Model**  
   Hyunjong Ok\*, **Suho Yoo\***, Jaeho Lee  
   <span class="pub-venue">ICASSP</span> 2025 [[paper]](https://arxiv.org/abs/2409.08199)
 {: .publications }
-
-</details>
 
 # 📖 Education
 - *2025.09 - Present*: M.S. in  Electrical Engineering. Korea Advanced Institute of Science and Technology (KAIST)  
