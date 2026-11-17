@@ -20,7 +20,7 @@ redirect_from:
 Hi! I'm Suho, an M.S. student in Electrical Engineering at KAIST, advised by [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/).  
 
 My interests lie in large language models, multimodal learning, and speech processing.  
-Recently, I've been exploring how **omni-modal large language models** work and how to make them more efficient.  
+Recently, I've been exploring how **multimodal large language models** work and how to make them more efficient.  
 I'm also interested in **multimodal agents** that can reason about their surroundings and take appropriate actions, including in **full-duplex** settings that enable natural interaction with users.  
 You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).  
 
