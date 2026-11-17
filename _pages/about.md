@@ -28,9 +28,9 @@ You can find more details in my [CV](/assets/CV_SuhoYoo.pdf).
 
 ### Preprints
 
-- <span class="pub-label">5.</span> **VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models**     
+- <span class="pub-label">6.</span> **VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models**     
   **Suho Yoo\***, Youngjoon Jang\*, Hyebin Cho, Taeyeop Lee, Jaewook Jeong, Joon Son Chung  
-  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.32569)
+  <span class="pub-venue">arXiv</span> 2026 [[paper]](https://suho-yoo.github.io/VSpark/)
 - <span class="pub-label">5.</span> **OmniSmartHome: A Multimodal Reasoning Benchmark for Smart-Home Agents**     
   Jihoo Jung\*, **Suho Yoo\***, Jungsoo Choi, Hyebin Cho, Tae Wook Haam, Hyeonggon Ryu, Sumin Park, Joon Son Chung  
   <span class="pub-venue">arXiv</span> 2026 [[paper]](https://arxiv.org/abs/2609.32569)
